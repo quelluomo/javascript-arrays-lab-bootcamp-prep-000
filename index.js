@@ -6,4 +6,6 @@ function destructivelyAppendKitten(name) {
 }
 // hence Milo, Otis, Garfield, Ralph
 
-
+function destructivelyPrependKitten(name){
+  kittens.
+}

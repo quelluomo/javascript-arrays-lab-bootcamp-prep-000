@@ -1,1 +1,1 @@
-var array
+var arrays

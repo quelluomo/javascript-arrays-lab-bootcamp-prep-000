@@ -4,4 +4,6 @@ function destructivelyAppendKitten(name) {
   kittens.push('Ralph')
   return kittens
 }
+// hence Milo, Otis, Garfield, Ralph
+
 

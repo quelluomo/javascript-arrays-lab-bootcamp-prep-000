@@ -1,1 +1,2 @@
-var arrays
+var Arrays =['Milo', 'Otis', 'Garfield'];
+

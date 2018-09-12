@@ -22,10 +22,10 @@ function appendKitten(name){
   return moreKittens;
 }
 function prependKitten(name){
-  var moreKittens = ["Arnold", ...kittens]
+  var moreKittens = ["Arnold", ...kittens];
   return moreKittens;
 }
 function removeLastKitten(){
-    var lessKittens = kittens.slice(2)
-    return lessKittens
+    var lessKittens = kittens.slice(2);
+    return lessKittens;
 }
